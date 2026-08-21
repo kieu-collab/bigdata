@@ -8,3 +8,9 @@ dask[dataframe]>=2024.1.0
 matplotlib>=3.8.0
 psutil>=5.9.0
 pyspark>=3.5.0
+streamlit
+pandas
+plotly
+pyarrow
+pyspark
+openpyxl
