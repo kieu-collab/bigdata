@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+pyarrow
+pyspark
+openpyxl
+polars
+dask
+duckdb
+ray
